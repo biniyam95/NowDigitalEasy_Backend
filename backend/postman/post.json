@@ -1,0 +1,23 @@
+[
+  {
+  "title":"post1",
+  "description":"first post of user1",
+  "image":"anyImageUrl.png",
+  "isPrivate":true
+   
+  },
+
+
+  {
+    "title":"post2",
+    "description":"second post of user1",
+    "image":"anyImageUrl.png"  
+    },
+
+
+    {
+      "title":"post3",
+      "description":"third post of user2",
+      "image":"anyImageUrl.png"  
+      }
+  ]

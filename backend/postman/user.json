@@ -1,0 +1,25 @@
+[
+  {
+  "name":"john",
+  "email":"john@gmail.com",
+  "mobile":"9877545721",
+  "password":"123",
+  "role":"user"
+},
+{
+  "name":"sam",
+  "email":"sam@gmail.com",
+  "mobile":"9877545722",
+  "password":"123"
+  
+},
+
+{
+  "name":"admin123",
+  "email":"admin123@gmail.com",
+  "mobile":"8577545720",
+  "password":"123",
+  "role":"admin"
+}
+  
+]
